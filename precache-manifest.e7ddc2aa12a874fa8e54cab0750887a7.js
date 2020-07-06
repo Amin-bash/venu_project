@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4d69fcaeb2e4c6034592ceb15be534e",
+    "revision": "43cd1ea6e93c67d71fbed149053e3344",
     "url": "/venu_project/index.html"
   },
   {
-    "revision": "3e60ebd2d8fefeb15ee8",
-    "url": "/venu_project/static/css/main.93ab2816.chunk.css"
+    "revision": "34176aaf87b5d337b0a3",
+    "url": "/venu_project/static/css/main.4a399087.chunk.css"
   },
   {
     "revision": "220a8f526230c0b2c312",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/venu_project/static/js/2.bdd6daf8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e60ebd2d8fefeb15ee8",
+    "revision": "34176aaf87b5d337b0a3",
     "url": "/venu_project/static/js/main.19b47fc1.chunk.js"
   },
   {

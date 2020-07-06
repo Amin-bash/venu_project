@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/venu_project/static/css/main.93ab2816.chunk.css",
+    "main.css": "/venu_project/static/css/main.4a399087.chunk.css",
     "main.js": "/venu_project/static/js/main.19b47fc1.chunk.js",
     "main.js.map": "/venu_project/static/js/main.19b47fc1.chunk.js.map",
     "runtime-main.js": "/venu_project/static/js/runtime-main.08a0f939.js",
@@ -8,9 +8,9 @@
     "static/js/2.bdd6daf8.chunk.js": "/venu_project/static/js/2.bdd6daf8.chunk.js",
     "static/js/2.bdd6daf8.chunk.js.map": "/venu_project/static/js/2.bdd6daf8.chunk.js.map",
     "index.html": "/venu_project/index.html",
-    "precache-manifest.4b54635353cb13053abbdb4026fe76d6.js": "/venu_project/precache-manifest.4b54635353cb13053abbdb4026fe76d6.js",
+    "precache-manifest.e7ddc2aa12a874fa8e54cab0750887a7.js": "/venu_project/precache-manifest.e7ddc2aa12a874fa8e54cab0750887a7.js",
     "service-worker.js": "/venu_project/service-worker.js",
-    "static/css/main.93ab2816.chunk.css.map": "/venu_project/static/css/main.93ab2816.chunk.css.map",
+    "static/css/main.4a399087.chunk.css.map": "/venu_project/static/css/main.4a399087.chunk.css.map",
     "static/js/2.bdd6daf8.chunk.js.LICENSE.txt": "/venu_project/static/js/2.bdd6daf8.chunk.js.LICENSE.txt",
     "static/media/slide_one.jpg": "/venu_project/static/media/slide_one.84753208.jpg",
     "static/media/slide_three.jpg": "/venu_project/static/media/slide_three.9aa09a50.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.08a0f939.js",
     "static/js/2.bdd6daf8.chunk.js",
-    "static/css/main.93ab2816.chunk.css",
+    "static/css/main.4a399087.chunk.css",
     "static/js/main.19b47fc1.chunk.js"
   ]
 }
