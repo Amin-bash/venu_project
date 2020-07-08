@@ -23,12 +23,17 @@
 
 @media(max-width: 450px) {
   .artist_name {
-    width: 80%;
-    height: 106px;
+    width: 40%;
+    height: 65px;
   }
+
   .artist_name .wrapper {
-    font-size: 25px;
-    height: 70px;
+    font-size: 16px;
+    height: 39px;
+    padding: 6px;
+  }
+  .carrousel_image, .carrousel_wrapper {
+    height: 350px !important;
   }
 }
 
