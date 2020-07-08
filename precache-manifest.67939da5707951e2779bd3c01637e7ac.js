@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43cd1ea6e93c67d71fbed149053e3344",
+    "revision": "62596098af86ab16c67b72eca307510c",
     "url": "/venu_project/index.html"
   },
   {
-    "revision": "34176aaf87b5d337b0a3",
-    "url": "/venu_project/static/css/main.4a399087.chunk.css"
+    "revision": "c809814c107a4628e943",
+    "url": "/venu_project/static/css/main.b4408e1a.chunk.css"
   },
   {
-    "revision": "220a8f526230c0b2c312",
-    "url": "/venu_project/static/js/2.bdd6daf8.chunk.js"
+    "revision": "e7dbdbf93b139680fe5c",
+    "url": "/venu_project/static/js/2.f757f997.chunk.js"
   },
   {
     "revision": "0d93e3e8a3ba404e9974c77aeb071cf3",
-    "url": "/venu_project/static/js/2.bdd6daf8.chunk.js.LICENSE.txt"
+    "url": "/venu_project/static/js/2.f757f997.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34176aaf87b5d337b0a3",
-    "url": "/venu_project/static/js/main.19b47fc1.chunk.js"
+    "revision": "c809814c107a4628e943",
+    "url": "/venu_project/static/js/main.3f9724c4.chunk.js"
   },
   {
     "revision": "6f306eaeb3be74edb403",
